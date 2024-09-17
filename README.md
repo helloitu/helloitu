@@ -9,8 +9,6 @@
   
 - 🌱 I’m currently learning **ML Techniques** (Mixtral 7b and LLM's in general)
 
-- 🧑‍🎓 I’m Graduated at **Computer Science**
-
 - 💬 Ask me about **Micro-services, Scalable Data Processing, Low Level hacking**
 
 </td>
