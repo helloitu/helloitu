@@ -42,4 +42,4 @@
 -->
 
 <h3 align="center">Buy Me a Coffee <3</h3>
-<p align="center">BTC - 12zWgFJyaYmsTFgomPY9iya3k2JBqVVBFg</a></p>
+<p align="center">BTC - bc1q8zhnegxz6ela6mdg2pdrp7fr59l7tcgecw5vpw</a></p>
